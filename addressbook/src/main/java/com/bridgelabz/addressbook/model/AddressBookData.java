@@ -1,7 +1,10 @@
 package com.bridgelabz.addressbook.model;
 
 import com.bridgelabz.addressbook.DTO.AddressBookDTO;
+import com.fasterxml.jackson.annotation.JsonFormat;
 import lombok.Data;
+
+import java.time.LocalDate;
 
 @Data
 public class AddressBookData {
@@ -9,12 +12,11 @@ public class AddressBookData {
     private String firstName;
     private String lastName;
     private String gender;
-
-    //    @JsonFormat(pattern = "dd-MM-yyyy")
-    //    private LocalDate dOB;
+    @JsonFormat(pattern = "dd-MM-yyyy")
+    private LocalDate dOB;
     private String emailID;
-    private long phoneNumber;
-    private long alternatePhoneNumber;
+    private String phoneNumber;
+    private String alternatePhoneNumber;
     private String address;
     private String city;
     private String state;
@@ -25,7 +27,7 @@ public class AddressBookData {
         this.firstName = address_book_dto.firstName;
         this.lastName = address_book_dto.lastName;
         this.gender = address_book_dto.gender;
-//        this.dOB = address_book_dto.dOB;
+        this.dOB = address_book_dto.dOB;
         this.emailID = address_book_dto.emailID;
         this.phoneNumber = address_book_dto.phoneNumber;
         this.alternatePhoneNumber = address_book_dto.alternatePhoneNumber;
