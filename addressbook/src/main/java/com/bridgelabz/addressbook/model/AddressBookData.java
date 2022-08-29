@@ -9,6 +9,7 @@ public class AddressBookData {
     private String firstName;
     private String lastName;
     private String gender;
+
     //    @JsonFormat(pattern = "dd-MM-yyyy")
     //    private LocalDate dOB;
     private String emailID;
