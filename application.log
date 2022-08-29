@@ -12,3 +12,17 @@
 2022-2022-08 13:55 [INFO][restartedMain][c.b.a.AddressBookApplication:61] Started AddressBookApplication in 3.609 seconds (JVM running for 4.1)
 2022-2022-08 13:55 [INFO][restartedMain][c.b.a.AddressBookApplication:13] AddressBook App Started in dev Environment
 2022-2022-08 13:55 [INFO][restartedMain][c.b.a.AddressBookApplication:14] AddressBook App started
+2022-2022-08 14:02 [INFO][restartedMain][c.b.a.AddressBookApplication:55] Starting AddressBookApplication using Java 18.0.2 on Samuel-Ideapad with PID 30416 (S:\Bridge-labz\Bridge_labz_JAVA\PracticeProblems\CFP\addressbook\addressbook\target\classes started by root in S:\Bridge-labz\Bridge_labz_JAVA\PracticeProblems\CFP\addressbook)
+2022-2022-08 14:02 [DEBUG][restartedMain][c.b.a.AddressBookApplication:56] Running with Spring Boot v2.7.3, Spring v5.3.22
+2022-2022-08 14:02 [INFO][restartedMain][c.b.a.AddressBookApplication:640] The following 1 profile is active: "dev"
+2022-2022-08 14:02 [WARN][restartedMain][o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration:219] spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2022-2022-08 14:02 [INFO][restartedMain][c.b.a.AddressBookApplication:61] Started AddressBookApplication in 3.41 seconds (JVM running for 3.845)
+2022-2022-08 14:02 [INFO][restartedMain][c.b.a.AddressBookApplication:13] AddressBook App Started in dev Environment
+2022-2022-08 14:02 [INFO][restartedMain][c.b.a.AddressBookApplication:14] AddressBook App started
+2022-2022-08 14:03 [INFO][restartedMain][c.b.a.AddressBookApplication:55] Starting AddressBookApplication using Java 18.0.2 on Samuel-Ideapad with PID 3052 (S:\Bridge-labz\Bridge_labz_JAVA\PracticeProblems\CFP\addressbook\addressbook\target\classes started by root in S:\Bridge-labz\Bridge_labz_JAVA\PracticeProblems\CFP\addressbook)
+2022-2022-08 14:03 [DEBUG][restartedMain][c.b.a.AddressBookApplication:56] Running with Spring Boot v2.7.3, Spring v5.3.22
+2022-2022-08 14:03 [INFO][restartedMain][c.b.a.AddressBookApplication:640] The following 1 profile is active: "dev"
+2022-2022-08 14:03 [WARN][restartedMain][o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration:219] spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2022-2022-08 14:03 [INFO][restartedMain][c.b.a.AddressBookApplication:61] Started AddressBookApplication in 3.661 seconds (JVM running for 4.1)
+2022-2022-08 14:03 [INFO][restartedMain][c.b.a.AddressBookApplication:13] AddressBook App Started in dev Environment
+2022-2022-08 14:03 [INFO][restartedMain][c.b.a.AddressBookApplication:14] AddressBook App started
