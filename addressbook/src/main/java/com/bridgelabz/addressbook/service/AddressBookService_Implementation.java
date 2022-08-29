@@ -8,38 +8,48 @@ import java.util.ArrayList;
 import java.util.List;
 
 @Service
-public class AddressBookService_Implementation implements AddressBookService{
+public class AddressBookService_Implementation implements AddressBookService {
+
+    private final List<AddressBookData> addressBookDataList = new ArrayList<>();
 
     @Override
     public AddressBookData createAddressBookData(AddressBookDTO addressBookDTO) {
-        return new AddressBookData(1, addressBookDTO);
+        System.out.println("Initial List size " +addressBookDataList.size());
+        AddressBookData addressBookData = new AddressBookData(addressBookDataList.size() + 1,
+                addressBookDTO);
+        addressBookDataList.add(addressBookData);
+        System.out.println("Final List size " +addressBookDataList.size());
+        return addressBookData;
     }
 
     @Override
     public AddressBookData readAddressBookDataByID(int addressBookID) {
-        return new AddressBookData(1, new AddressBookDTO
-                ("Samuel", "Elijah", "Male", //LocalDate.parse("20-01-1994"),
-                        "samuel20sam@gmail.com", 9600020569L, 7043132427L,
-                        "OMR", "Chennai", "TN", 600119));
+        return addressBookDataList.get(addressBookID - 1);
     }
 
     @Override
     public List<AddressBookData> readAddressBookData() {
-        List<AddressBookData> addressBookDataList = new ArrayList<>();
-        addressBookDataList.add(new AddressBookData(1, new AddressBookDTO
-                ("Samuel", "Elijah", "Male", //LocalDate.parse("20-01-1994"),
-                        "samuel20sam@gmail.com", 9600020569L, 7043132427L,
-                        "OMR", "Chennai", "TN", 600119)));
         return addressBookDataList;
     }
 
     @Override
     public AddressBookData updateAddressBookDataByID(int addressBookID, AddressBookDTO addressBookDTO) {
-        return new AddressBookData(addressBookID, addressBookDTO);
+        AddressBookData addressBookData = this.readAddressBookDataByID(addressBookID);
+        addressBookData.setFirstName(addressBookDTO.firstName);
+        addressBookData.setLastName(addressBookDTO.lastName);
+        addressBookData.setGender(addressBookDTO.gender);
+        addressBookData.setPhoneNumber(addressBookDTO.phoneNumber);
+        addressBookData.setAlternatePhoneNumber(addressBookDTO.alternatePhoneNumber);
+        addressBookData.setEmailID(addressBookDTO.emailID);
+        addressBookData.setAddress(addressBookDTO.address);
+        addressBookData.setCity(addressBookDTO.city);
+        addressBookData.setState(addressBookDTO.state);
+        addressBookData.setPincode(addressBookDTO.pincode);
+        return addressBookData;
     }
 
     @Override
-    public AddressBookData deleteAddressBookDataByID(int addressBookID, AddressBookDTO addressBookDTO) {
-        return null;
+    public AddressBookData deleteAddressBookDataByID(int addressBookID) {
+        return addressBookDataList.remove(addressBookID - 1);
     }
 }

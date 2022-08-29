@@ -10,5 +10,5 @@ public interface AddressBookService {
     AddressBookData readAddressBookDataByID (int addressBookID);
     List<AddressBookData> readAddressBookData ();
     AddressBookData updateAddressBookDataByID (int addressBookID, AddressBookDTO addressBookDTO);
-    AddressBookData deleteAddressBookDataByID (int addressBookID, AddressBookDTO addressBookDTO);
+    AddressBookData deleteAddressBookDataByID (int addressBookID);
 }

@@ -4,19 +4,19 @@ public class AddressBookDTO {
     public String firstName;
     public String lastName;
     public String gender;
-//    @JsonFormat(pattern = "dd-MM-yyyy")
-//    public LocalDate dOB;
+    //    @JsonFormat(pattern = "dd-MM-yyyy")
+    //    public LocalDate dOB;
     public String emailID;
     public long phoneNumber;
     public long alternatePhoneNumber;
     public String address;
     public String city;
     public String state;
-    public int pincode;
+    public String pincode;
 
     public AddressBookDTO(String firstName, String lastName, String gender, //LocalDate dOD,
                           String emailID, long phoneNumber, long alternatePhoneNumber, String address, String city,
-                          String state, int pincode) {
+                          String state, String pincode) {
         this.firstName = firstName;
         this.lastName = lastName;
         this.gender = gender;

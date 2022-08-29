@@ -11,15 +11,15 @@ public class AddressBookData {
     private String firstName;
     private String lastName;
     private String gender;
-//    @JsonFormat(pattern = "dd-MM-yyyy")
-//    private LocalDate dOB;
+    //    @JsonFormat(pattern = "dd-MM-yyyy")
+    //    private LocalDate dOB;
     private String emailID;
     private long phoneNumber;
     private long alternatePhoneNumber;
     private String address;
     private String city;
     private String state;
-    private long pincode;
+    private String pincode;
 
     public AddressBookData(int addressBookID, AddressBookDTO address_book_dto) {
         this.addressBookID = addressBookID;
