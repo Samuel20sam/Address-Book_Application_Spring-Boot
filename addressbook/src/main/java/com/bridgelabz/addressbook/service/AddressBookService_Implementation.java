@@ -4,6 +4,7 @@ import com.bridgelabz.addressbook.DTO.AddressBookDTO;
 import com.bridgelabz.addressbook.exception.AddressBookException;
 import com.bridgelabz.addressbook.model.AddressBookData;
 import com.bridgelabz.addressbook.repository.AddressBookRepository;
+import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
@@ -11,6 +12,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 @Service
+@Slf4j
 public class AddressBookService_Implementation implements AddressBookService {
 
     @Autowired
@@ -24,6 +26,7 @@ public class AddressBookService_Implementation implements AddressBookService {
                 addressBookDTO);
         addressBookDataList.add(addressBookData);
         System.out.println("Final List size " +addressBookDataList.size());
+        log.debug("Address Book : " +addressBookData);
         return addressBookRepository.save(addressBookData);
     }
 
@@ -49,5 +52,39 @@ public class AddressBookService_Implementation implements AddressBookService {
     public void deleteAddressBookDataByID(int addressBookID) {
         AddressBookData addressBookData = this.readAddressBookDataByID(addressBookID);
         addressBookRepository.delete(addressBookData);
+    }
+    @Override
+    public List<AddressBookData> sortAddressBookByCity() {
+        return addressBookRepository.sortByCity();
+    }
+
+    @Override
+    public List<AddressBookData> getAddressBookByCity(String city) {
+        return addressBookRepository.findAllByCity(city);
+    }
+
+    @Override
+    public List<AddressBookData> sortAddressBookByState() {
+        return addressBookRepository.sortByState();
+    }
+
+    @Override
+    public List<AddressBookData> getAddressBookByState(String state) {
+        return addressBookRepository.findAllByState(state);
+    }
+
+    @Override
+    public List<AddressBookData> sortAddressBookByZip() {
+        return addressBookRepository.sortByZip();
+    }
+
+    @Override
+    public List<AddressBookData> getAddressBookByZip(String zip) {
+        return addressBookRepository.findAllByZip(zip);
+    }
+
+    @Override
+    public List<AddressBookData> sortAddressBookByName() {
+        return addressBookRepository.sortByName();
     }
 }
