@@ -2,12 +2,11 @@ package com.bridgelabz.addressbook.DTO;
 
 import com.fasterxml.jackson.annotation.JsonFormat;
 import lombok.Data;
-
 import javax.validation.constraints.NotEmpty;
-import javax.validation.constraints.NotNull;
 import javax.validation.constraints.PastOrPresent;
 import javax.validation.constraints.Pattern;
 import java.time.LocalDate;
+
 
 @Data
 public class AddressBookDTO {
@@ -19,7 +18,7 @@ public class AddressBookDTO {
     @Pattern(regexp = "Male|Female", message = "Gender needs to be male or female")
     public String gender;
     @JsonFormat(pattern = "dd-MM-yyyy")
-    @NotNull(message = "dOB should not be empty")
+    @NotEmpty(message = "dOB should not be empty")
     @PastOrPresent(message = "dOB should be past or today's date")
     public LocalDate dOB;
     @Pattern(regexp = "[a-z0-9._%+-]+@[a-z0-9.-]+\\.[a-z]{2,3}", flags = Pattern.Flag.CASE_INSENSITIVE, message = "Email Id Is Invalid")
@@ -36,5 +35,4 @@ public class AddressBookDTO {
     public String state;
     @Pattern(regexp = "^[1-9][0-9]{2}\\s?[0-9]{3}$", message = "Zip Code Is Invalid")
     public String pincode;
-
 }

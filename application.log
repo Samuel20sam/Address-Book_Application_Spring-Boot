@@ -1,286 +1,234 @@
-2022-2022-08 13:34 [INFO][restartedMain][c.b.a.AddressBookApplication:55] Starting AddressBookApplication using Java 18.0.2 on Samuel-Ideapad with PID 13628 (S:\Bridge-labz\Bridge_labz_JAVA\PracticeProblems\CFP\addressbook\addressbook\target\classes started by root in S:\Bridge-labz\Bridge_labz_JAVA\PracticeProblems\CFP\addressbook)
-2022-2022-08 13:34 [DEBUG][restartedMain][c.b.a.AddressBookApplication:56] Running with Spring Boot v2.7.3, Spring v5.3.22
-2022-2022-08 13:34 [INFO][restartedMain][c.b.a.AddressBookApplication:640] The following 1 profile is active: "dev"
-2022-2022-08 13:34 [WARN][restartedMain][o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration:219] spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
-2022-2022-08 13:34 [INFO][restartedMain][c.b.a.AddressBookApplication:61] Started AddressBookApplication in 3.189 seconds (JVM running for 3.606)
-2022-2022-08 13:34 [INFO][restartedMain][c.b.a.AddressBookApplication:13] AddressBook App Started in dev Environment
-2022-2022-08 13:34 [INFO][restartedMain][c.b.a.AddressBookApplication:14] AddressBook App started
-2022-2022-08 13:55 [INFO][restartedMain][c.b.a.AddressBookApplication:55] Starting AddressBookApplication using Java 18.0.2 on Samuel-Ideapad with PID 12716 (S:\Bridge-labz\Bridge_labz_JAVA\PracticeProblems\CFP\addressbook\addressbook\target\classes started by root in S:\Bridge-labz\Bridge_labz_JAVA\PracticeProblems\CFP\addressbook)
-2022-2022-08 13:55 [DEBUG][restartedMain][c.b.a.AddressBookApplication:56] Running with Spring Boot v2.7.3, Spring v5.3.22
-2022-2022-08 13:55 [INFO][restartedMain][c.b.a.AddressBookApplication:640] The following 1 profile is active: "dev"
-2022-2022-08 13:55 [WARN][restartedMain][o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration:219] spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
-2022-2022-08 13:55 [INFO][restartedMain][c.b.a.AddressBookApplication:61] Started AddressBookApplication in 3.609 seconds (JVM running for 4.1)
-2022-2022-08 13:55 [INFO][restartedMain][c.b.a.AddressBookApplication:13] AddressBook App Started in dev Environment
-2022-2022-08 13:55 [INFO][restartedMain][c.b.a.AddressBookApplication:14] AddressBook App started
-2022-2022-08 14:02 [INFO][restartedMain][c.b.a.AddressBookApplication:55] Starting AddressBookApplication using Java 18.0.2 on Samuel-Ideapad with PID 30416 (S:\Bridge-labz\Bridge_labz_JAVA\PracticeProblems\CFP\addressbook\addressbook\target\classes started by root in S:\Bridge-labz\Bridge_labz_JAVA\PracticeProblems\CFP\addressbook)
-2022-2022-08 14:02 [DEBUG][restartedMain][c.b.a.AddressBookApplication:56] Running with Spring Boot v2.7.3, Spring v5.3.22
-2022-2022-08 14:02 [INFO][restartedMain][c.b.a.AddressBookApplication:640] The following 1 profile is active: "dev"
-2022-2022-08 14:02 [WARN][restartedMain][o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration:219] spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
-2022-2022-08 14:02 [INFO][restartedMain][c.b.a.AddressBookApplication:61] Started AddressBookApplication in 3.41 seconds (JVM running for 3.845)
-2022-2022-08 14:02 [INFO][restartedMain][c.b.a.AddressBookApplication:13] AddressBook App Started in dev Environment
-2022-2022-08 14:02 [INFO][restartedMain][c.b.a.AddressBookApplication:14] AddressBook App started
-2022-2022-08 14:03 [INFO][restartedMain][c.b.a.AddressBookApplication:55] Starting AddressBookApplication using Java 18.0.2 on Samuel-Ideapad with PID 3052 (S:\Bridge-labz\Bridge_labz_JAVA\PracticeProblems\CFP\addressbook\addressbook\target\classes started by root in S:\Bridge-labz\Bridge_labz_JAVA\PracticeProblems\CFP\addressbook)
-2022-2022-08 14:03 [DEBUG][restartedMain][c.b.a.AddressBookApplication:56] Running with Spring Boot v2.7.3, Spring v5.3.22
-2022-2022-08 14:03 [INFO][restartedMain][c.b.a.AddressBookApplication:640] The following 1 profile is active: "dev"
-2022-2022-08 14:03 [WARN][restartedMain][o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration:219] spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
-2022-2022-08 14:03 [INFO][restartedMain][c.b.a.AddressBookApplication:61] Started AddressBookApplication in 3.661 seconds (JVM running for 4.1)
-2022-2022-08 14:03 [INFO][restartedMain][c.b.a.AddressBookApplication:13] AddressBook App Started in dev Environment
-2022-2022-08 14:03 [INFO][restartedMain][c.b.a.AddressBookApplication:14] AddressBook App started
-2022-2022-08 14:13 [INFO][restartedMain][c.b.a.AddressBookApplication:55] Starting AddressBookApplication using Java 18.0.2 on Samuel-Ideapad with PID 12176 (S:\Bridge-labz\Bridge_labz_JAVA\PracticeProblems\CFP\addressbook\addressbook\target\classes started by root in S:\Bridge-labz\Bridge_labz_JAVA\PracticeProblems\CFP\addressbook)
-2022-2022-08 14:13 [DEBUG][restartedMain][c.b.a.AddressBookApplication:56] Running with Spring Boot v2.7.3, Spring v5.3.22
-2022-2022-08 14:13 [INFO][restartedMain][c.b.a.AddressBookApplication:640] The following 1 profile is active: "dev"
-2022-2022-08 14:13 [WARN][restartedMain][o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration:219] spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
-2022-2022-08 14:13 [INFO][restartedMain][c.b.a.AddressBookApplication:61] Started AddressBookApplication in 4.96 seconds (JVM running for 5.922)
-2022-2022-08 14:13 [INFO][restartedMain][c.b.a.AddressBookApplication:13] AddressBook App Started in dev Environment
-2022-2022-08 14:13 [INFO][restartedMain][c.b.a.AddressBookApplication:14] AddressBook App started
-2022-2022-08 14:17 [INFO][restartedMain][c.b.a.AddressBookApplication:55] Starting AddressBookApplication using Java 18.0.2 on Samuel-Ideapad with PID 19408 (S:\Bridge-labz\Bridge_labz_JAVA\PracticeProblems\CFP\addressbook\addressbook\target\classes started by root in S:\Bridge-labz\Bridge_labz_JAVA\PracticeProblems\CFP\addressbook)
-2022-2022-08 14:17 [DEBUG][restartedMain][c.b.a.AddressBookApplication:56] Running with Spring Boot v2.7.3, Spring v5.3.22
-2022-2022-08 14:17 [INFO][restartedMain][c.b.a.AddressBookApplication:640] The following 1 profile is active: "dev"
-2022-2022-08 14:17 [WARN][restartedMain][o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration:219] spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
-2022-2022-08 14:17 [INFO][restartedMain][c.b.a.AddressBookApplication:61] Started AddressBookApplication in 3.446 seconds (JVM running for 3.886)
-2022-2022-08 14:17 [INFO][restartedMain][c.b.a.AddressBookApplication:13] AddressBook App Started in dev Environment
-2022-2022-08 14:17 [INFO][restartedMain][c.b.a.AddressBookApplication:14] AddressBook App started
-2022-2022-08 14:17 [ERROR][http-nio-8080-exec-2][o.a.c.c.C.[.[.[.[dispatcherServlet]:175] Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is javax.validation.UnexpectedTypeException: HV000030: No validator could be found for constraint 'javax.validation.constraints.Pattern' validating type 'java.lang.Long'. Check configuration for 'alternatePhoneNumber'] with root cause
-javax.validation.UnexpectedTypeException: HV000030: No validator could be found for constraint 'javax.validation.constraints.Pattern' validating type 'java.lang.Long'. Check configuration for 'alternatePhoneNumber'
-	at org.hibernate.validator.internal.engine.constraintvalidation.ConstraintTree.getExceptionForNullValidator(ConstraintTree.java:116)
-	at org.hibernate.validator.internal.engine.constraintvalidation.ConstraintTree.getInitializedConstraintValidator(ConstraintTree.java:162)
-	at org.hibernate.validator.internal.engine.constraintvalidation.SimpleConstraintTree.validateConstraints(SimpleConstraintTree.java:54)
-	at org.hibernate.validator.internal.engine.constraintvalidation.ConstraintTree.validateConstraints(ConstraintTree.java:75)
-	at org.hibernate.validator.internal.metadata.core.MetaConstraint.doValidateConstraint(MetaConstraint.java:130)
-	at org.hibernate.validator.internal.metadata.core.MetaConstraint.validateConstraint(MetaConstraint.java:123)
-	at org.hibernate.validator.internal.engine.ValidatorImpl.validateMetaConstraint(ValidatorImpl.java:555)
-	at org.hibernate.validator.internal.engine.ValidatorImpl.validateConstraintsForSingleDefaultGroupElement(ValidatorImpl.java:518)
-	at org.hibernate.validator.internal.engine.ValidatorImpl.validateConstraintsForDefaultGroup(ValidatorImpl.java:488)
-	at org.hibernate.validator.internal.engine.ValidatorImpl.validateConstraintsForCurrentGroup(ValidatorImpl.java:450)
-	at org.hibernate.validator.internal.engine.ValidatorImpl.validateInContext(ValidatorImpl.java:400)
-	at org.hibernate.validator.internal.engine.ValidatorImpl.validate(ValidatorImpl.java:172)
-	at org.springframework.validation.beanvalidation.SpringValidatorAdapter.validate(SpringValidatorAdapter.java:109)
-	at org.springframework.boot.autoconfigure.validation.ValidatorAdapter.validate(ValidatorAdapter.java:66)
-	at org.springframework.validation.DataBinder.validate(DataBinder.java:933)
-	at org.springframework.web.servlet.mvc.method.annotation.AbstractMessageConverterMethodArgumentResolver.validateIfApplicable(AbstractMessageConverterMethodArgumentResolver.java:250)
-	at org.springframework.web.servlet.mvc.method.annotation.RequestResponseBodyMethodProcessor.resolveArgument(RequestResponseBodyMethodProcessor.java:139)
-	at org.springframework.web.method.support.HandlerMethodArgumentResolverComposite.resolveArgument(HandlerMethodArgumentResolverComposite.java:122)
-	at org.springframework.web.method.support.InvocableHandlerMethod.getMethodArgumentValues(InvocableHandlerMethod.java:179)
-	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:146)
-	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:117)
-	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:895)
-	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:808)
-	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
-	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1070)
-	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:963)
-	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
-	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:909)
-	at javax.servlet.http.HttpServlet.service(HttpServlet.java:681)
-	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
-	at javax.servlet.http.HttpServlet.service(HttpServlet.java:764)
-	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:227)
-	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
-	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
-	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
-	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
-	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
-	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
-	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
-	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
-	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
-	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
-	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
-	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
-	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
-	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
-	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
-	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
-	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:197)
-	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
-	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541)
-	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:135)
-	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
-	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
-	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:360)
-	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:399)
-	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
-	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:890)
-	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1789)
-	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
-	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
-	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
-	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
-	at java.base/java.lang.Thread.run(Thread.java:833)
-2022-2022-08 14:19 [INFO][restartedMain][c.b.a.AddressBookApplication:55] Starting AddressBookApplication using Java 18.0.2 on Samuel-Ideapad with PID 22676 (S:\Bridge-labz\Bridge_labz_JAVA\PracticeProblems\CFP\addressbook\addressbook\target\classes started by root in S:\Bridge-labz\Bridge_labz_JAVA\PracticeProblems\CFP\addressbook)
-2022-2022-08 14:19 [DEBUG][restartedMain][c.b.a.AddressBookApplication:56] Running with Spring Boot v2.7.3, Spring v5.3.22
-2022-2022-08 14:19 [INFO][restartedMain][c.b.a.AddressBookApplication:640] The following 1 profile is active: "dev"
-2022-2022-08 14:19 [WARN][restartedMain][o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration:219] spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
-2022-2022-08 14:19 [INFO][restartedMain][c.b.a.AddressBookApplication:61] Started AddressBookApplication in 3.487 seconds (JVM running for 3.925)
-2022-2022-08 14:19 [INFO][restartedMain][c.b.a.AddressBookApplication:13] AddressBook App Started in dev Environment
-2022-2022-08 14:19 [INFO][restartedMain][c.b.a.AddressBookApplication:14] AddressBook App started
-2022-2022-08 14:19 [ERROR][http-nio-8080-exec-1][o.a.c.c.C.[.[.[.[dispatcherServlet]:175] Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is javax.validation.UnexpectedTypeException: HV000030: No validator could be found for constraint 'javax.validation.constraints.Pattern' validating type 'java.lang.Long'. Check configuration for 'phoneNumber'] with root cause
-javax.validation.UnexpectedTypeException: HV000030: No validator could be found for constraint 'javax.validation.constraints.Pattern' validating type 'java.lang.Long'. Check configuration for 'phoneNumber'
-	at org.hibernate.validator.internal.engine.constraintvalidation.ConstraintTree.getExceptionForNullValidator(ConstraintTree.java:116)
-	at org.hibernate.validator.internal.engine.constraintvalidation.ConstraintTree.getInitializedConstraintValidator(ConstraintTree.java:162)
-	at org.hibernate.validator.internal.engine.constraintvalidation.SimpleConstraintTree.validateConstraints(SimpleConstraintTree.java:54)
-	at org.hibernate.validator.internal.engine.constraintvalidation.ConstraintTree.validateConstraints(ConstraintTree.java:75)
-	at org.hibernate.validator.internal.metadata.core.MetaConstraint.doValidateConstraint(MetaConstraint.java:130)
-	at org.hibernate.validator.internal.metadata.core.MetaConstraint.validateConstraint(MetaConstraint.java:123)
-	at org.hibernate.validator.internal.engine.ValidatorImpl.validateMetaConstraint(ValidatorImpl.java:555)
-	at org.hibernate.validator.internal.engine.ValidatorImpl.validateConstraintsForSingleDefaultGroupElement(ValidatorImpl.java:518)
-	at org.hibernate.validator.internal.engine.ValidatorImpl.validateConstraintsForDefaultGroup(ValidatorImpl.java:488)
-	at org.hibernate.validator.internal.engine.ValidatorImpl.validateConstraintsForCurrentGroup(ValidatorImpl.java:450)
-	at org.hibernate.validator.internal.engine.ValidatorImpl.validateInContext(ValidatorImpl.java:400)
-	at org.hibernate.validator.internal.engine.ValidatorImpl.validate(ValidatorImpl.java:172)
-	at org.springframework.validation.beanvalidation.SpringValidatorAdapter.validate(SpringValidatorAdapter.java:109)
-	at org.springframework.boot.autoconfigure.validation.ValidatorAdapter.validate(ValidatorAdapter.java:66)
-	at org.springframework.validation.DataBinder.validate(DataBinder.java:933)
-	at org.springframework.web.servlet.mvc.method.annotation.AbstractMessageConverterMethodArgumentResolver.validateIfApplicable(AbstractMessageConverterMethodArgumentResolver.java:250)
-	at org.springframework.web.servlet.mvc.method.annotation.RequestResponseBodyMethodProcessor.resolveArgument(RequestResponseBodyMethodProcessor.java:139)
-	at org.springframework.web.method.support.HandlerMethodArgumentResolverComposite.resolveArgument(HandlerMethodArgumentResolverComposite.java:122)
-	at org.springframework.web.method.support.InvocableHandlerMethod.getMethodArgumentValues(InvocableHandlerMethod.java:179)
-	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:146)
-	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:117)
-	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:895)
-	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:808)
-	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
-	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1070)
-	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:963)
-	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
-	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:909)
-	at javax.servlet.http.HttpServlet.service(HttpServlet.java:681)
-	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
-	at javax.servlet.http.HttpServlet.service(HttpServlet.java:764)
-	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:227)
-	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
-	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
-	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
-	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
-	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
-	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
-	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
-	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
-	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
-	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
-	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
-	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
-	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
-	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
-	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
-	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
-	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:197)
-	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
-	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541)
-	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:135)
-	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
-	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
-	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:360)
-	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:399)
-	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
-	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:890)
-	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1789)
-	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
-	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
-	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
-	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
-	at java.base/java.lang.Thread.run(Thread.java:833)
-2022-2022-08 14:23 [INFO][restartedMain][c.b.a.AddressBookApplication:55] Starting AddressBookApplication using Java 18.0.2 on Samuel-Ideapad with PID 11064 (S:\Bridge-labz\Bridge_labz_JAVA\PracticeProblems\CFP\addressbook\addressbook\target\classes started by root in S:\Bridge-labz\Bridge_labz_JAVA\PracticeProblems\CFP\addressbook)
-2022-2022-08 14:23 [DEBUG][restartedMain][c.b.a.AddressBookApplication:56] Running with Spring Boot v2.7.3, Spring v5.3.22
-2022-2022-08 14:23 [INFO][restartedMain][c.b.a.AddressBookApplication:640] The following 1 profile is active: "dev"
-2022-2022-08 14:23 [WARN][restartedMain][o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration:219] spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
-2022-2022-08 14:23 [INFO][restartedMain][c.b.a.AddressBookApplication:61] Started AddressBookApplication in 3.344 seconds (JVM running for 3.769)
-2022-2022-08 14:23 [INFO][restartedMain][c.b.a.AddressBookApplication:13] AddressBook App Started in dev Environment
-2022-2022-08 14:23 [INFO][restartedMain][c.b.a.AddressBookApplication:14] AddressBook App started
-2022-2022-08 14:23 [ERROR][http-nio-8080-exec-1][o.a.c.c.C.[.[.[.[dispatcherServlet]:175] Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is javax.validation.UnexpectedTypeException: HV000030: No validator could be found for constraint 'javax.validation.constraints.Pattern' validating type 'java.lang.Long'. Check configuration for 'phoneNumber'] with root cause
-javax.validation.UnexpectedTypeException: HV000030: No validator could be found for constraint 'javax.validation.constraints.Pattern' validating type 'java.lang.Long'. Check configuration for 'phoneNumber'
-	at org.hibernate.validator.internal.engine.constraintvalidation.ConstraintTree.getExceptionForNullValidator(ConstraintTree.java:116)
-	at org.hibernate.validator.internal.engine.constraintvalidation.ConstraintTree.getInitializedConstraintValidator(ConstraintTree.java:162)
-	at org.hibernate.validator.internal.engine.constraintvalidation.SimpleConstraintTree.validateConstraints(SimpleConstraintTree.java:54)
-	at org.hibernate.validator.internal.engine.constraintvalidation.ConstraintTree.validateConstraints(ConstraintTree.java:75)
-	at org.hibernate.validator.internal.metadata.core.MetaConstraint.doValidateConstraint(MetaConstraint.java:130)
-	at org.hibernate.validator.internal.metadata.core.MetaConstraint.validateConstraint(MetaConstraint.java:123)
-	at org.hibernate.validator.internal.engine.ValidatorImpl.validateMetaConstraint(ValidatorImpl.java:555)
-	at org.hibernate.validator.internal.engine.ValidatorImpl.validateConstraintsForSingleDefaultGroupElement(ValidatorImpl.java:518)
-	at org.hibernate.validator.internal.engine.ValidatorImpl.validateConstraintsForDefaultGroup(ValidatorImpl.java:488)
-	at org.hibernate.validator.internal.engine.ValidatorImpl.validateConstraintsForCurrentGroup(ValidatorImpl.java:450)
-	at org.hibernate.validator.internal.engine.ValidatorImpl.validateInContext(ValidatorImpl.java:400)
-	at org.hibernate.validator.internal.engine.ValidatorImpl.validate(ValidatorImpl.java:172)
-	at org.springframework.validation.beanvalidation.SpringValidatorAdapter.validate(SpringValidatorAdapter.java:109)
-	at org.springframework.boot.autoconfigure.validation.ValidatorAdapter.validate(ValidatorAdapter.java:66)
-	at org.springframework.validation.DataBinder.validate(DataBinder.java:933)
-	at org.springframework.web.servlet.mvc.method.annotation.AbstractMessageConverterMethodArgumentResolver.validateIfApplicable(AbstractMessageConverterMethodArgumentResolver.java:250)
-	at org.springframework.web.servlet.mvc.method.annotation.RequestResponseBodyMethodProcessor.resolveArgument(RequestResponseBodyMethodProcessor.java:139)
-	at org.springframework.web.method.support.HandlerMethodArgumentResolverComposite.resolveArgument(HandlerMethodArgumentResolverComposite.java:122)
-	at org.springframework.web.method.support.InvocableHandlerMethod.getMethodArgumentValues(InvocableHandlerMethod.java:179)
-	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:146)
-	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:117)
-	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:895)
-	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:808)
-	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
-	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1070)
-	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:963)
-	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
-	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:909)
-	at javax.servlet.http.HttpServlet.service(HttpServlet.java:681)
-	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
-	at javax.servlet.http.HttpServlet.service(HttpServlet.java:764)
-	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:227)
-	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
-	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
-	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
-	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
-	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
-	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
-	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
-	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
-	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
-	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
-	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
-	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
-	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
-	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
-	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
-	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
-	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:197)
-	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
-	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541)
-	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:135)
-	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
-	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
-	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:360)
-	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:399)
-	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
-	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:890)
-	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1789)
-	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
-	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
-	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
-	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
-	at java.base/java.lang.Thread.run(Thread.java:833)
-2022-2022-08 14:24 [INFO][restartedMain][c.b.a.AddressBookApplication:55] Starting AddressBookApplication using Java 18.0.2 on Samuel-Ideapad with PID 21380 (S:\Bridge-labz\Bridge_labz_JAVA\PracticeProblems\CFP\addressbook\addressbook\target\classes started by root in S:\Bridge-labz\Bridge_labz_JAVA\PracticeProblems\CFP\addressbook)
-2022-2022-08 14:24 [DEBUG][restartedMain][c.b.a.AddressBookApplication:56] Running with Spring Boot v2.7.3, Spring v5.3.22
-2022-2022-08 14:24 [INFO][restartedMain][c.b.a.AddressBookApplication:640] The following 1 profile is active: "dev"
-2022-2022-08 14:24 [WARN][restartedMain][o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration:219] spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
-2022-2022-08 14:24 [INFO][restartedMain][c.b.a.AddressBookApplication:61] Started AddressBookApplication in 3.325 seconds (JVM running for 3.794)
-2022-2022-08 14:24 [INFO][restartedMain][c.b.a.AddressBookApplication:13] AddressBook App Started in dev Environment
-2022-2022-08 14:24 [INFO][restartedMain][c.b.a.AddressBookApplication:14] AddressBook App started
-2022-2022-08 14:24 [WARN][http-nio-8080-exec-2][o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver:208] Resolved [org.springframework.web.bind.MethodArgumentNotValidException: Validation failed for argument [0] in public org.springframework.http.ResponseEntity<com.bridgelabz.addressbook.DTO.ResponseDTO> com.bridgelabz.addressbook.controller.AddressBookController.createAddressBookData(com.bridgelabz.addressbook.DTO.AddressBookDTO) with 2 errors: [Field error in object 'addressBookDTO' on field 'state': rejected value [Sotuthern Australia]; codes [Pattern.addressBookDTO.state,Pattern.state,Pattern.java.lang.String,Pattern]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [addressBookDTO.state,state]; arguments []; default message [state],[Ljavax.validation.constraints.Pattern$Flag;@5b1d8584,^[A-Z][a-z]+$]; default message [City Name is Invalid]] [Field error in object 'addressBookDTO' on field 'gender': rejected value [Male]; codes [Pattern.addressBookDTO.gender,Pattern.gender,Pattern.java.lang.String,Pattern]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [addressBookDTO.gender,gender]; arguments []; default message [gender],[Ljavax.validation.constraints.Pattern$Flag;@5b1d8584,male|female]; default message [Gender needs to be male or female]] ]
-2022-2022-08 14:26 [INFO][restartedMain][c.b.a.AddressBookApplication:55] Starting AddressBookApplication using Java 18.0.2 on Samuel-Ideapad with PID 9648 (S:\Bridge-labz\Bridge_labz_JAVA\PracticeProblems\CFP\addressbook\addressbook\target\classes started by root in S:\Bridge-labz\Bridge_labz_JAVA\PracticeProblems\CFP\addressbook)
-2022-2022-08 14:26 [DEBUG][restartedMain][c.b.a.AddressBookApplication:56] Running with Spring Boot v2.7.3, Spring v5.3.22
-2022-2022-08 14:26 [INFO][restartedMain][c.b.a.AddressBookApplication:640] The following 1 profile is active: "dev"
-2022-2022-08 14:26 [WARN][restartedMain][o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration:219] spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
-2022-2022-08 14:26 [INFO][restartedMain][c.b.a.AddressBookApplication:61] Started AddressBookApplication in 3.4 seconds (JVM running for 3.83)
-2022-2022-08 14:26 [INFO][restartedMain][c.b.a.AddressBookApplication:13] AddressBook App Started in dev Environment
-2022-2022-08 14:26 [INFO][restartedMain][c.b.a.AddressBookApplication:14] AddressBook App started
-2022-2022-08 14:26 [WARN][http-nio-8080-exec-1][o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver:208] Resolved [org.springframework.web.bind.MethodArgumentNotValidException: Validation failed for argument [0] in public org.springframework.http.ResponseEntity<com.bridgelabz.addressbook.DTO.ResponseDTO> com.bridgelabz.addressbook.controller.AddressBookController.createAddressBookData(com.bridgelabz.addressbook.DTO.AddressBookDTO): [Field error in object 'addressBookDTO' on field 'state': rejected value [Sotuthern Australia]; codes [Pattern.addressBookDTO.state,Pattern.state,Pattern.java.lang.String,Pattern]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [addressBookDTO.state,state]; arguments []; default message [state],[Ljavax.validation.constraints.Pattern$Flag;@ba29f9b,^[A-Z_ ][a-z_ ]+$]; default message [State Name is Invalid]] ]
-2022-2022-08 14:28 [INFO][restartedMain][c.b.a.AddressBookApplication:55] Starting AddressBookApplication using Java 18.0.2 on Samuel-Ideapad with PID 16268 (S:\Bridge-labz\Bridge_labz_JAVA\PracticeProblems\CFP\addressbook\addressbook\target\classes started by root in S:\Bridge-labz\Bridge_labz_JAVA\PracticeProblems\CFP\addressbook)
-2022-2022-08 14:28 [DEBUG][restartedMain][c.b.a.AddressBookApplication:56] Running with Spring Boot v2.7.3, Spring v5.3.22
-2022-2022-08 14:28 [INFO][restartedMain][c.b.a.AddressBookApplication:640] The following 1 profile is active: "dev"
-2022-2022-08 14:28 [WARN][restartedMain][o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration:219] spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
-2022-2022-08 14:28 [INFO][restartedMain][c.b.a.AddressBookApplication:61] Started AddressBookApplication in 3.585 seconds (JVM running for 4.028)
-2022-2022-08 14:28 [INFO][restartedMain][c.b.a.AddressBookApplication:13] AddressBook App Started in dev Environment
-2022-2022-08 14:28 [INFO][restartedMain][c.b.a.AddressBookApplication:14] AddressBook App started
-2022-2022-08 14:28 [WARN][http-nio-8080-exec-1][o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver:208] Resolved [org.springframework.web.bind.MethodArgumentNotValidException: Validation failed for argument [0] in public org.springframework.http.ResponseEntity<com.bridgelabz.addressbook.DTO.ResponseDTO> com.bridgelabz.addressbook.controller.AddressBookController.createAddressBookData(com.bridgelabz.addressbook.DTO.AddressBookDTO): [Field error in object 'addressBookDTO' on field 'state': rejected value [Sotuthern Australia]; codes [Pattern.addressBookDTO.state,Pattern.state,Pattern.java.lang.String,Pattern]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [addressBookDTO.state,state]; arguments []; default message [state],[Ljavax.validation.constraints.Pattern$Flag;@5168f7c2,^[A-Z][a-z](\d)[A-Z][a-z]+$]; default message [State Name is Invalid]] ]
-2022-2022-08 14:28 [WARN][http-nio-8080-exec-4][o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver:208] Resolved [org.springframework.web.bind.MethodArgumentNotValidException: Validation failed for argument [0] in public org.springframework.http.ResponseEntity<com.bridgelabz.addressbook.DTO.ResponseDTO> com.bridgelabz.addressbook.controller.AddressBookController.createAddressBookData(com.bridgelabz.addressbook.DTO.AddressBookDTO): [Field error in object 'addressBookDTO' on field 'state': rejected value [SotuthernAustralia]; codes [Pattern.addressBookDTO.state,Pattern.state,Pattern.java.lang.String,Pattern]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [addressBookDTO.state,state]; arguments []; default message [state],[Ljavax.validation.constraints.Pattern$Flag;@5168f7c2,^[A-Z][a-z](\d)[A-Z][a-z]+$]; default message [State Name is Invalid]] ]
-2022-2022-08 14:30 [INFO][restartedMain][c.b.a.AddressBookApplication:55] Starting AddressBookApplication using Java 18.0.2 on Samuel-Ideapad with PID 28444 (S:\Bridge-labz\Bridge_labz_JAVA\PracticeProblems\CFP\addressbook\addressbook\target\classes started by root in S:\Bridge-labz\Bridge_labz_JAVA\PracticeProblems\CFP\addressbook)
-2022-2022-08 14:30 [DEBUG][restartedMain][c.b.a.AddressBookApplication:56] Running with Spring Boot v2.7.3, Spring v5.3.22
-2022-2022-08 14:30 [INFO][restartedMain][c.b.a.AddressBookApplication:640] The following 1 profile is active: "dev"
-2022-2022-08 14:30 [WARN][restartedMain][o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration:219] spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
-2022-2022-08 14:30 [INFO][restartedMain][c.b.a.AddressBookApplication:61] Started AddressBookApplication in 3.552 seconds (JVM running for 4.051)
-2022-2022-08 14:30 [INFO][restartedMain][c.b.a.AddressBookApplication:13] AddressBook App Started in dev Environment
-2022-2022-08 14:30 [INFO][restartedMain][c.b.a.AddressBookApplication:14] AddressBook App started
+2022-2022-08 10:27 [INFO][restartedMain][c.b.a.AddressBookApplication:55] Starting AddressBookApplication using Java 18.0.2 on Samuel-Ideapad with PID 17492 (S:\Bridge-labz\Bridge_labz_JAVA\PracticeProblems\CFP\addressbook\addressbook\target\classes started by root in S:\Bridge-labz\Bridge_labz_JAVA\PracticeProblems\CFP\addressbook)
+2022-2022-08 10:27 [DEBUG][restartedMain][c.b.a.AddressBookApplication:56] Running with Spring Boot v2.7.3, Spring v5.3.22
+2022-2022-08 10:27 [INFO][restartedMain][c.b.a.AddressBookApplication:640] The following 1 profile is active: "dev"
+2022-2022-08 10:27 [WARN][restartedMain][o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration:219] spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2022-2022-08 10:27 [WARN][restartedMain][o.s.b.w.s.c.AnnotationConfigServletWebServerApplicationContext:591] Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'addressBookRepository' defined in com.bridgelabz.addressbook.repository.AddressBookRepository defined in @EnableJpaRepositories declared on JpaRepositoriesRegistrar.EnableJpaRepositoriesConfiguration: Invocation of init method failed; nested exception is java.lang.IllegalArgumentException: Not a managed type: class com.bridgelabz.addressbook.model.AddressBookData
+2022-2022-08 10:27 [ERROR][restartedMain][o.s.b.SpringApplication:824] Application run failed
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'addressBookRepository' defined in com.bridgelabz.addressbook.repository.AddressBookRepository defined in @EnableJpaRepositories declared on JpaRepositoriesRegistrar.EnableJpaRepositoriesConfiguration: Invocation of init method failed; nested exception is java.lang.IllegalArgumentException: Not a managed type: class com.bridgelabz.addressbook.model.AddressBookData
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1804)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:620)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:542)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:335)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:333)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:208)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:936)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:918)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:583)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:147)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:734)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:408)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:308)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1306)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1295)
+	at com.bridgelabz.addressbook.AddressBookApplication.main(AddressBookApplication.java:12)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:577)
+	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:49)
+Caused by: java.lang.IllegalArgumentException: Not a managed type: class com.bridgelabz.addressbook.model.AddressBookData
+	at org.hibernate.metamodel.internal.MetamodelImpl.managedType(MetamodelImpl.java:582)
+	at org.hibernate.metamodel.internal.MetamodelImpl.managedType(MetamodelImpl.java:85)
+	at org.springframework.data.jpa.repository.support.JpaMetamodelEntityInformation.<init>(JpaMetamodelEntityInformation.java:75)
+	at org.springframework.data.jpa.repository.support.JpaEntityInformationSupport.getEntityInformation(JpaEntityInformationSupport.java:66)
+	at org.springframework.data.jpa.repository.support.JpaRepositoryFactory.getEntityInformation(JpaRepositoryFactory.java:233)
+	at org.springframework.data.jpa.repository.support.JpaRepositoryFactory.getTargetRepository(JpaRepositoryFactory.java:182)
+	at org.springframework.data.jpa.repository.support.JpaRepositoryFactory.getTargetRepository(JpaRepositoryFactory.java:165)
+	at org.springframework.data.jpa.repository.support.JpaRepositoryFactory.getTargetRepository(JpaRepositoryFactory.java:76)
+	at org.springframework.data.repository.core.support.RepositoryFactorySupport.getRepository(RepositoryFactorySupport.java:325)
+	at org.springframework.data.repository.core.support.RepositoryFactoryBeanSupport.lambda$afterPropertiesSet$5(RepositoryFactoryBeanSupport.java:323)
+	at org.springframework.data.util.Lazy.getNullable(Lazy.java:231)
+	at org.springframework.data.util.Lazy.get(Lazy.java:115)
+	at org.springframework.data.repository.core.support.RepositoryFactoryBeanSupport.afterPropertiesSet(RepositoryFactoryBeanSupport.java:329)
+	at org.springframework.data.jpa.repository.support.JpaRepositoryFactoryBean.afterPropertiesSet(JpaRepositoryFactoryBean.java:144)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1863)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1800)
+	... 19 common frames omitted
+2022-2022-08 10:29 [INFO][restartedMain][c.b.a.AddressBookApplication:55] Starting AddressBookApplication using Java 18.0.2 on Samuel-Ideapad with PID 11072 (S:\Bridge-labz\Bridge_labz_JAVA\PracticeProblems\CFP\addressbook\addressbook\target\classes started by root in S:\Bridge-labz\Bridge_labz_JAVA\PracticeProblems\CFP\addressbook)
+2022-2022-08 10:29 [DEBUG][restartedMain][c.b.a.AddressBookApplication:56] Running with Spring Boot v2.7.3, Spring v5.3.22
+2022-2022-08 10:29 [INFO][restartedMain][c.b.a.AddressBookApplication:640] The following 1 profile is active: "dev"
+2022-2022-08 10:29 [WARN][restartedMain][o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration:219] spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2022-2022-08 10:29 [WARN][restartedMain][o.s.b.w.s.c.AnnotationConfigServletWebServerApplicationContext:591] Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'addressBookRepository' defined in com.bridgelabz.addressbook.repository.AddressBookRepository defined in @EnableJpaRepositories declared on JpaRepositoriesRegistrar.EnableJpaRepositoriesConfiguration: Invocation of init method failed; nested exception is java.lang.IllegalArgumentException: Not a managed type: class com.bridgelabz.addressbook.model.AddressBookData
+2022-2022-08 10:29 [ERROR][restartedMain][o.s.b.SpringApplication:824] Application run failed
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'addressBookRepository' defined in com.bridgelabz.addressbook.repository.AddressBookRepository defined in @EnableJpaRepositories declared on JpaRepositoriesRegistrar.EnableJpaRepositoriesConfiguration: Invocation of init method failed; nested exception is java.lang.IllegalArgumentException: Not a managed type: class com.bridgelabz.addressbook.model.AddressBookData
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1804)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:620)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:542)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:335)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:333)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:208)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:936)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:918)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:583)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:147)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:734)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:408)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:308)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1306)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1295)
+	at com.bridgelabz.addressbook.AddressBookApplication.main(AddressBookApplication.java:12)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:577)
+	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:49)
+Caused by: java.lang.IllegalArgumentException: Not a managed type: class com.bridgelabz.addressbook.model.AddressBookData
+	at org.hibernate.metamodel.internal.MetamodelImpl.managedType(MetamodelImpl.java:582)
+	at org.hibernate.metamodel.internal.MetamodelImpl.managedType(MetamodelImpl.java:85)
+	at org.springframework.data.jpa.repository.support.JpaMetamodelEntityInformation.<init>(JpaMetamodelEntityInformation.java:75)
+	at org.springframework.data.jpa.repository.support.JpaEntityInformationSupport.getEntityInformation(JpaEntityInformationSupport.java:66)
+	at org.springframework.data.jpa.repository.support.JpaRepositoryFactory.getEntityInformation(JpaRepositoryFactory.java:233)
+	at org.springframework.data.jpa.repository.support.JpaRepositoryFactory.getTargetRepository(JpaRepositoryFactory.java:182)
+	at org.springframework.data.jpa.repository.support.JpaRepositoryFactory.getTargetRepository(JpaRepositoryFactory.java:165)
+	at org.springframework.data.jpa.repository.support.JpaRepositoryFactory.getTargetRepository(JpaRepositoryFactory.java:76)
+	at org.springframework.data.repository.core.support.RepositoryFactorySupport.getRepository(RepositoryFactorySupport.java:325)
+	at org.springframework.data.repository.core.support.RepositoryFactoryBeanSupport.lambda$afterPropertiesSet$5(RepositoryFactoryBeanSupport.java:323)
+	at org.springframework.data.util.Lazy.getNullable(Lazy.java:231)
+	at org.springframework.data.util.Lazy.get(Lazy.java:115)
+	at org.springframework.data.repository.core.support.RepositoryFactoryBeanSupport.afterPropertiesSet(RepositoryFactoryBeanSupport.java:329)
+	at org.springframework.data.jpa.repository.support.JpaRepositoryFactoryBean.afterPropertiesSet(JpaRepositoryFactoryBean.java:144)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1863)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1800)
+	... 19 common frames omitted
+2022-2022-08 10:37 [INFO][restartedMain][c.b.a.AddressBookApplication:55] Starting AddressBookApplication using Java 18.0.2 on Samuel-Ideapad with PID 19796 (S:\Bridge-labz\Bridge_labz_JAVA\PracticeProblems\CFP\addressbook\addressbook\target\classes started by root in S:\Bridge-labz\Bridge_labz_JAVA\PracticeProblems\CFP\addressbook)
+2022-2022-08 10:37 [DEBUG][restartedMain][c.b.a.AddressBookApplication:56] Running with Spring Boot v2.7.3, Spring v5.3.22
+2022-2022-08 10:37 [INFO][restartedMain][c.b.a.AddressBookApplication:640] The following 1 profile is active: "dev"
+2022-2022-08 10:37 [WARN][restartedMain][o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration:219] spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2022-2022-08 10:37 [WARN][restartedMain][o.s.b.w.s.c.AnnotationConfigServletWebServerApplicationContext:591] Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'addressBookRepository' defined in com.bridgelabz.addressbook.repository.AddressBookRepository defined in @EnableJpaRepositories declared on JpaRepositoriesRegistrar.EnableJpaRepositoriesConfiguration: Invocation of init method failed; nested exception is java.lang.IllegalArgumentException: Not a managed type: class com.bridgelabz.addressbook.model.AddressBookData
+2022-2022-08 10:37 [ERROR][restartedMain][o.s.b.SpringApplication:824] Application run failed
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'addressBookRepository' defined in com.bridgelabz.addressbook.repository.AddressBookRepository defined in @EnableJpaRepositories declared on JpaRepositoriesRegistrar.EnableJpaRepositoriesConfiguration: Invocation of init method failed; nested exception is java.lang.IllegalArgumentException: Not a managed type: class com.bridgelabz.addressbook.model.AddressBookData
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1804)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:620)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:542)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:335)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:333)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:208)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:936)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:918)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:583)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:147)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:734)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:408)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:308)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1306)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1295)
+	at com.bridgelabz.addressbook.AddressBookApplication.main(AddressBookApplication.java:12)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:577)
+	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:49)
+Caused by: java.lang.IllegalArgumentException: Not a managed type: class com.bridgelabz.addressbook.model.AddressBookData
+	at org.hibernate.metamodel.internal.MetamodelImpl.managedType(MetamodelImpl.java:582)
+	at org.hibernate.metamodel.internal.MetamodelImpl.managedType(MetamodelImpl.java:85)
+	at org.springframework.data.jpa.repository.support.JpaMetamodelEntityInformation.<init>(JpaMetamodelEntityInformation.java:75)
+	at org.springframework.data.jpa.repository.support.JpaEntityInformationSupport.getEntityInformation(JpaEntityInformationSupport.java:66)
+	at org.springframework.data.jpa.repository.support.JpaRepositoryFactory.getEntityInformation(JpaRepositoryFactory.java:233)
+	at org.springframework.data.jpa.repository.support.JpaRepositoryFactory.getTargetRepository(JpaRepositoryFactory.java:182)
+	at org.springframework.data.jpa.repository.support.JpaRepositoryFactory.getTargetRepository(JpaRepositoryFactory.java:165)
+	at org.springframework.data.jpa.repository.support.JpaRepositoryFactory.getTargetRepository(JpaRepositoryFactory.java:76)
+	at org.springframework.data.repository.core.support.RepositoryFactorySupport.getRepository(RepositoryFactorySupport.java:325)
+	at org.springframework.data.repository.core.support.RepositoryFactoryBeanSupport.lambda$afterPropertiesSet$5(RepositoryFactoryBeanSupport.java:323)
+	at org.springframework.data.util.Lazy.getNullable(Lazy.java:231)
+	at org.springframework.data.util.Lazy.get(Lazy.java:115)
+	at org.springframework.data.repository.core.support.RepositoryFactoryBeanSupport.afterPropertiesSet(RepositoryFactoryBeanSupport.java:329)
+	at org.springframework.data.jpa.repository.support.JpaRepositoryFactoryBean.afterPropertiesSet(JpaRepositoryFactoryBean.java:144)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1863)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1800)
+	... 19 common frames omitted
+2022-2022-08 11:10 [INFO][restartedMain][c.b.a.AddressBookApplication:55] Starting AddressBookApplication using Java 18.0.2 on Samuel-Ideapad with PID 18764 (S:\Bridge-labz\Bridge_labz_JAVA\PracticeProblems\CFP\addressbook\addressbook\target\classes started by root in S:\Bridge-labz\Bridge_labz_JAVA\PracticeProblems\CFP\addressbook)
+2022-2022-08 11:10 [DEBUG][restartedMain][c.b.a.AddressBookApplication:56] Running with Spring Boot v2.7.3, Spring v5.3.22
+2022-2022-08 11:10 [INFO][restartedMain][c.b.a.AddressBookApplication:640] The following 1 profile is active: "dev"
+2022-2022-08 11:10 [WARN][restartedMain][o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration:219] spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2022-2022-08 11:10 [WARN][restartedMain][o.s.b.w.s.c.AnnotationConfigServletWebServerApplicationContext:591] Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'addressBookRepository' defined in com.bridgelabz.addressbook.repository.AddressBookRepository defined in @EnableJpaRepositories declared on JpaRepositoriesRegistrar.EnableJpaRepositoriesConfiguration: Invocation of init method failed; nested exception is java.lang.IllegalArgumentException: Not a managed type: class com.bridgelabz.addressbook.model.AddressBookData
+2022-2022-08 11:10 [ERROR][restartedMain][o.s.b.SpringApplication:824] Application run failed
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'addressBookRepository' defined in com.bridgelabz.addressbook.repository.AddressBookRepository defined in @EnableJpaRepositories declared on JpaRepositoriesRegistrar.EnableJpaRepositoriesConfiguration: Invocation of init method failed; nested exception is java.lang.IllegalArgumentException: Not a managed type: class com.bridgelabz.addressbook.model.AddressBookData
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1804)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:620)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:542)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:335)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:333)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:208)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:936)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:918)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:583)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:147)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:734)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:408)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:308)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1306)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1295)
+	at com.bridgelabz.addressbook.AddressBookApplication.main(AddressBookApplication.java:12)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:577)
+	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:49)
+Caused by: java.lang.IllegalArgumentException: Not a managed type: class com.bridgelabz.addressbook.model.AddressBookData
+	at org.hibernate.metamodel.internal.MetamodelImpl.managedType(MetamodelImpl.java:582)
+	at org.hibernate.metamodel.internal.MetamodelImpl.managedType(MetamodelImpl.java:85)
+	at org.springframework.data.jpa.repository.support.JpaMetamodelEntityInformation.<init>(JpaMetamodelEntityInformation.java:75)
+	at org.springframework.data.jpa.repository.support.JpaEntityInformationSupport.getEntityInformation(JpaEntityInformationSupport.java:66)
+	at org.springframework.data.jpa.repository.support.JpaRepositoryFactory.getEntityInformation(JpaRepositoryFactory.java:233)
+	at org.springframework.data.jpa.repository.support.JpaRepositoryFactory.getTargetRepository(JpaRepositoryFactory.java:182)
+	at org.springframework.data.jpa.repository.support.JpaRepositoryFactory.getTargetRepository(JpaRepositoryFactory.java:165)
+	at org.springframework.data.jpa.repository.support.JpaRepositoryFactory.getTargetRepository(JpaRepositoryFactory.java:76)
+	at org.springframework.data.repository.core.support.RepositoryFactorySupport.getRepository(RepositoryFactorySupport.java:325)
+	at org.springframework.data.repository.core.support.RepositoryFactoryBeanSupport.lambda$afterPropertiesSet$5(RepositoryFactoryBeanSupport.java:323)
+	at org.springframework.data.util.Lazy.getNullable(Lazy.java:231)
+	at org.springframework.data.util.Lazy.get(Lazy.java:115)
+	at org.springframework.data.repository.core.support.RepositoryFactoryBeanSupport.afterPropertiesSet(RepositoryFactoryBeanSupport.java:329)
+	at org.springframework.data.jpa.repository.support.JpaRepositoryFactoryBean.afterPropertiesSet(JpaRepositoryFactoryBean.java:144)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1863)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1800)
+	... 19 common frames omitted
+2022-2022-08 11:17 [INFO][restartedMain][c.b.a.AddressBookApplication:55] Starting AddressBookApplication using Java 17.0.2 on Samuel-Ideapad with PID 10972 (S:\Bridge-labz\Bridge_labz_JAVA\PracticeProblems\CFP\addressbook\addressbook\target\classes started by root in S:\Bridge-labz\Bridge_labz_JAVA\PracticeProblems\CFP\addressbook)
+2022-2022-08 11:17 [DEBUG][restartedMain][c.b.a.AddressBookApplication:56] Running with Spring Boot v2.7.3, Spring v5.3.22
+2022-2022-08 11:17 [INFO][restartedMain][c.b.a.AddressBookApplication:640] The following 1 profile is active: "dev"
+2022-2022-08 11:17 [WARN][restartedMain][o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration:219] spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2022-2022-08 11:17 [WARN][restartedMain][o.s.b.w.s.c.AnnotationConfigServletWebServerApplicationContext:591] Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'addressBookRepository' defined in com.bridgelabz.addressbook.repository.AddressBookRepository defined in @EnableJpaRepositories declared on JpaRepositoriesRegistrar.EnableJpaRepositoriesConfiguration: Invocation of init method failed; nested exception is java.lang.IllegalArgumentException: Not a managed type: class com.bridgelabz.addressbook.model.AddressBookData
+2022-2022-08 11:17 [ERROR][restartedMain][o.s.b.SpringApplication:824] Application run failed
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'addressBookRepository' defined in com.bridgelabz.addressbook.repository.AddressBookRepository defined in @EnableJpaRepositories declared on JpaRepositoriesRegistrar.EnableJpaRepositoriesConfiguration: Invocation of init method failed; nested exception is java.lang.IllegalArgumentException: Not a managed type: class com.bridgelabz.addressbook.model.AddressBookData
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1804)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:620)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:542)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:335)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:333)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:208)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:936)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:918)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:583)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:147)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:734)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:408)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:308)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1306)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1295)
+	at com.bridgelabz.addressbook.AddressBookApplication.main(AddressBookApplication.java:12)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:49)
+Caused by: java.lang.IllegalArgumentException: Not a managed type: class com.bridgelabz.addressbook.model.AddressBookData
+	at org.hibernate.metamodel.internal.MetamodelImpl.managedType(MetamodelImpl.java:582)
+	at org.hibernate.metamodel.internal.MetamodelImpl.managedType(MetamodelImpl.java:85)
+	at org.springframework.data.jpa.repository.support.JpaMetamodelEntityInformation.<init>(JpaMetamodelEntityInformation.java:75)
+	at org.springframework.data.jpa.repository.support.JpaEntityInformationSupport.getEntityInformation(JpaEntityInformationSupport.java:66)
+	at org.springframework.data.jpa.repository.support.JpaRepositoryFactory.getEntityInformation(JpaRepositoryFactory.java:233)
+	at org.springframework.data.jpa.repository.support.JpaRepositoryFactory.getTargetRepository(JpaRepositoryFactory.java:182)
+	at org.springframework.data.jpa.repository.support.JpaRepositoryFactory.getTargetRepository(JpaRepositoryFactory.java:165)
+	at org.springframework.data.jpa.repository.support.JpaRepositoryFactory.getTargetRepository(JpaRepositoryFactory.java:76)
+	at org.springframework.data.repository.core.support.RepositoryFactorySupport.getRepository(RepositoryFactorySupport.java:325)
+	at org.springframework.data.repository.core.support.RepositoryFactoryBeanSupport.lambda$afterPropertiesSet$5(RepositoryFactoryBeanSupport.java:323)
+	at org.springframework.data.util.Lazy.getNullable(Lazy.java:231)
+	at org.springframework.data.util.Lazy.get(Lazy.java:115)
+	at org.springframework.data.repository.core.support.RepositoryFactoryBeanSupport.afterPropertiesSet(RepositoryFactoryBeanSupport.java:329)
+	at org.springframework.data.jpa.repository.support.JpaRepositoryFactoryBean.afterPropertiesSet(JpaRepositoryFactoryBean.java:144)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1863)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1800)
+	... 21 common frames omitted
+2022-2022-08 11:19 [INFO][restartedMain][c.b.a.AddressBookApplication:55] Starting AddressBookApplication using Java 17.0.2 on Samuel-Ideapad with PID 12672 (S:\Bridge-labz\Bridge_labz_JAVA\PracticeProblems\CFP\addressbook\addressbook\target\classes started by root in S:\Bridge-labz\Bridge_labz_JAVA\PracticeProblems\CFP\addressbook)
+2022-2022-08 11:19 [DEBUG][restartedMain][c.b.a.AddressBookApplication:56] Running with Spring Boot v2.7.3, Spring v5.3.22
+2022-2022-08 11:19 [INFO][restartedMain][c.b.a.AddressBookApplication:640] The following 1 profile is active: "dev"
+2022-2022-08 11:19 [WARN][restartedMain][o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration:219] spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2022-2022-08 11:19 [INFO][restartedMain][c.b.a.AddressBookApplication:61] Started AddressBookApplication in 4.411 seconds (JVM running for 4.934)
+2022-2022-08 11:19 [INFO][restartedMain][c.b.a.AddressBookApplication:13] AddressBook App Started in dev Environment
+2022-2022-08 11:19 [INFO][restartedMain][c.b.a.AddressBookApplication:14] AddressBook App started
