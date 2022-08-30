@@ -18,7 +18,6 @@ public class AddressBookDTO {
     @Pattern(regexp = "Male|Female", message = "Gender needs to be male or female")
     public String gender;
     @JsonFormat(pattern = "dd-MM-yyyy")
-    @NotEmpty(message = "dOB should not be empty")
     @PastOrPresent(message = "dOB should be past or today's date")
     public LocalDate dOB;
     @Pattern(regexp = "[a-z0-9._%+-]+@[a-z0-9.-]+\\.[a-z]{2,3}", flags = Pattern.Flag.CASE_INSENSITIVE, message = "Email Id Is Invalid")
