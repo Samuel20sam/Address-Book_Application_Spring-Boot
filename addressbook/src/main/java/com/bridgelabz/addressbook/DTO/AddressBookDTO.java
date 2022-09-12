@@ -7,7 +7,6 @@ import javax.validation.constraints.PastOrPresent;
 import javax.validation.constraints.Pattern;
 import java.time.LocalDate;
 
-
 @Data
 public class AddressBookDTO {
     @Pattern(regexp = "^[A-Z][a-zA-Z\\s]{2,}$", message = "User's first name is Invalid")
