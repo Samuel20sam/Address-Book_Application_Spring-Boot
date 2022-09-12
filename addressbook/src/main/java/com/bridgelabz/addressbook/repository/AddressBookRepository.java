@@ -10,8 +10,6 @@ public interface AddressBookRepository extends JpaRepository<AddressBookData, In
     @Query(value = "select * from contact_details order by city",nativeQuery = true)
     List<AddressBookData> sortByCity();
 
-    
-
     @Query(value = "select * from contact_details where city = :city",nativeQuery = true)
     List<AddressBookData> findAllByCity(String city);
 

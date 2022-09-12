@@ -4,6 +4,10 @@ import com.bridgelabz.addressbook.DTO.AddressBookDTO;
 import com.bridgelabz.addressbook.DTO.ResponseDTO;
 import com.bridgelabz.addressbook.model.AddressBookData;
 import com.bridgelabz.addressbook.service.AddressBookService;
+import io.swagger.v3.oas.annotations.Operation;
+import io.swagger.v3.oas.annotations.media.Content;
+import io.swagger.v3.oas.annotations.responses.ApiResponse;
+import io.swagger.v3.oas.annotations.responses.ApiResponses;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
@@ -19,6 +23,15 @@ public class AddressBookController {
     @Autowired
     private AddressBookService addressBookService;
 
+    @Operation(summary = "This is to create a contact in database")
+    @ApiResponses(value = {
+            @ApiResponse(responseCode = "200",
+                    description = "Created a contact in the database",
+                    content = {@Content(mediaType = "application/json")}),
+            @ApiResponse(responseCode = "404",
+                    description = "Not Available",
+                    content = @Content)
+    })
     @PostMapping("/create")
     public ResponseEntity<ResponseDTO> createAddressBookData(@Valid @RequestBody AddressBookDTO addressBookDTO) {
         AddressBookData addressBookData = addressBookService.createAddressBookData(addressBookDTO);
